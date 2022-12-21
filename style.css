@@ -1,0 +1,23 @@
+div.main{
+    background-color: antiquewhite;
+}
+
+div.a1{
+    background-color: rgb(119, 252, 119);
+   
+}
+
+div.a2{
+    background-color: rgb(233, 148, 21);
+   
+}
+
+div.a3{
+    background-color: rgb(12, 9, 230);
+   
+}
+
+div.a4{
+    background-color: rgb(255, 251, 10);
+   display: inline;
+}
