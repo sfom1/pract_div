@@ -14,3 +14,12 @@
     background-color: orange;
  }
  
+ .footer {
+    background-color: blue;
+    text-align: center;
+ }
+
+p.yellow {
+    display: inline;
+    background-color: yellow;
+}
